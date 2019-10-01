@@ -1,0 +1,277 @@
+General statistics:
+	Execution mode = GPSR + BUFFER...
+	Total simulation time		= 2080.000000 ms
+	hello_period_			= 1.000000 
+	BUS Number			= 0
+	RSU Number			= 0
+	Number of messages sent		= 10 msg
+	Number of messages received	= 0 msg
+	Total Number of hops 		= 0 hops
+	Total End-end delay 		= 0.000000 seconds
+Mon 30 Sep 09:17:52 CET 2019
+General statistics:
+	Execution mode = Learning Process...
+	Duration  = 2.947749 seconds...
+	Total simulation time		= 2080.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 0
+	RSU Number			= 0
+	Number of messages sent		= 0 msg
+	Number of messages received	= 0 msg
+	Total Number of hops 		= 0 hops
+	Total End-end delay 		= 0.000000 seconds
+	hello_counter_			= 0 messages
+	MaxRange				= 57792416 meters
+Learning Process 
+General statistics: delay sesitive
+	Total simulation time		= 2080.000000 ms
+	Number of messages sent		= 10 msg
+	Number of messages received	= 0 msg
+Exploit Process 
+General statistics: delay sesitive
+	Total simulation time		= 2080.000000 ms
+	Number of messages sent		= 10 msg
+	Number of messages received	= 5 msg
+	Packet delivery rate		= 50.000000 per cent 
+	Average End-end delay 		= 28.592590 ms/msg 
+	Average number of Hops 		= 3.200000 hop/msg
+  hopcounter=16 
+Learning Process 
+General statistics: delay sesitive
+	Total simulation time		= 3120.000000 ms
+	Number of messages sent		= 54833658 msg
+	Number of messages received	= 0 msg
+Exploit Process 
+General statistics: delay sesitive
+	Total simulation time		= 3120.000000 ms
+	Number of messages sent		= 33134026 msg
+	Number of messages received	= 7 msg
+	Packet delivery rate		= 0.000021 per cent 
+	Average End-end delay 		= 13.308260 ms/msg 
+	Average number of Hops 		= 4765877.500000 hop/msg
+  hopcounter=33361143 
+General statistics:
+	Execution mode = Learning Process(ignore late temporal views)...
+	Total simulation time		= 120.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 50
+	RSU Number			= 5
+	Number of messages sent		= 0 msg
+	Number of messages received	= 0 msg
+	Total Number of hops 		= 0 hops
+	Total End-end delay 		= 0.000000 seconds
+General statistics:
+	Execution mode = Exploiting...
+	Total simulation time		= 120.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 50
+	RSU Number			= 5
+	Number of messages sent		= 9 msg
+	Number of messages received	= 7 msg
+	Total Number of hops 		= 13 hops
+	Total End-end delay 		= 116.920517 seconds
+	Packet delivery rate		= 77.777778 per cent 
+	Average End-end delay 		= 16.702930 ms/msg 
+	Average number of Hops 		= 1.857143 hop/msg
+General statistics:
+	Execution mode = Exploiting...
+	Total simulation time		= 120.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 50
+	RSU Number			= 5
+	Number of messages sent		= 9 msg
+	Number of messages received	= 4 msg
+	Total Number of hops 		= 7 hops
+	Total End-end delay 		= 38.019661 seconds
+	Packet delivery rate		= 44.444444 per cent 
+	Average End-end delay 		= 9.504915 ms/msg 
+	Average number of Hops 		= 1.750000 hop/msg
+General statistics:
+	Execution mode = Learning Process(ignore late temporal views)...
+	Total simulation time		= 120.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 50
+	RSU Number			= 5
+	Number of messages sent		= 0 msg
+	Number of messages received	= 0 msg
+	Total Number of hops 		= 0 hops
+	Total End-end delay 		= 0.000000 seconds
+General statistics:
+	Execution mode = Learning Process(ignore late temporal views)...
+	Total simulation time		= 1500.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 50
+	RSU Number			= 5
+	Number of messages sent		= 0 msg
+	Number of messages received	= 0 msg
+	Total Number of hops 		= 0 hops
+	Total End-end delay 		= 0.000000 seconds
+General statistics:
+	Execution mode = Exploiting...
+	Total simulation time		= 1500.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 50
+	RSU Number			= 5
+	Number of messages sent		= 10 msg
+	Number of messages received	= 10 msg
+	Total Number of hops 		= 26 hops
+	Total End-end delay 		= 366.066437 seconds
+	Packet delivery rate		= 100.000000 per cent 
+	Average End-end delay 		= 36.606644 ms/msg 
+	Average number of Hops 		= 2.600000 hop/msg
+General statistics:
+	Execution mode = Exploiting...
+	Total simulation time		= 1500.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 50
+	RSU Number			= 5
+	Number of messages sent		= 9 msg
+	Number of messages received	= 9 msg
+	Total Number of hops 		= 26 hops
+	Total End-end delay 		= 148.915878 seconds
+	Packet delivery rate		= 100.000000 per cent 
+	Average End-end delay 		= 16.546209 ms/msg 
+	Average number of Hops 		= 2.888889 hop/msg
+General statistics:
+	Execution mode = Exploiting...
+	Total simulation time		= 1500.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 50
+	RSU Number			= 5
+	Number of messages sent		= 487 msg
+	Number of messages received	= 357 msg
+	Total Number of hops 		= 638 hops
+	Total End-end delay 		= 9805.404297 seconds
+	Packet delivery rate		= 73.305955 per cent 
+	Average End-end delay 		= 27.466118 ms/msg 
+	Average number of Hops 		= 1.787115 hop/msg
+General statistics:
+	Execution mode = Exploiting...
+	Total simulation time		= 1500.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 50
+	RSU Number			= 5
+	Number of messages sent		= 491 msg
+	Number of messages received	= 364 msg
+	Total Number of hops 		= 634 hops
+	Total End-end delay 		= 10580.746094 seconds
+	Packet delivery rate		= 74.134420 per cent 
+	Average End-end delay 		= 29.067984 ms/msg 
+	Average number of Hops 		= 1.741758 hop/msg
+General statistics:
+	Execution mode = Exploiting...
+	Total simulation time		= 1500.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 50
+	RSU Number			= 5
+	Number of messages sent		= 490 msg
+	Number of messages received	= 377 msg
+	Total Number of hops 		= 706 hops
+	Total End-end delay 		= 10617.333984 seconds
+	Packet delivery rate		= 76.938776 per cent 
+	Average End-end delay 		= 28.162689 ms/msg 
+	Average number of Hops 		= 1.872679 hop/msg
+General statistics:
+	Execution mode = Exploiting...
+	Total simulation time		= 1500.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 50
+	RSU Number			= 5
+	Number of messages sent		= 489 msg
+	Number of messages received	= 358 msg
+	Total Number of hops 		= 637 hops
+	Total End-end delay 		= 10584.616211 seconds
+	Packet delivery rate		= 73.210634 per cent 
+	Average End-end delay 		= 29.565968 ms/msg 
+	Average number of Hops 		= 1.779330 hop/msg
+General statistics:
+	Execution mode = Exploiting...
+	Total simulation time		= 1500.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 50
+	RSU Number			= 5
+	Number of messages sent		= 483 msg
+	Number of messages received	= 374 msg
+	Total Number of hops 		= 704 hops
+	Total End-end delay 		= 10616.638672 seconds
+	Packet delivery rate		= 77.432712 per cent 
+	Average End-end delay 		= 28.386734 ms/msg 
+	Average number of Hops 		= 1.882353 hop/msg
+General statistics:
+	Execution mode = Exploiting...
+	Total simulation time		= 1500.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 50
+	RSU Number			= 5
+	Number of messages sent		= 492 msg
+	Number of messages received	= 411 msg
+	Total Number of hops 		= 783 hops
+	Total End-end delay 		= 14049.319336 seconds
+	Packet delivery rate		= 83.536585 per cent 
+	Average End-end delay 		= 34.183258 ms/msg 
+	Average number of Hops 		= 1.905110 hop/msg
+General statistics:
+	Execution mode = Exploiting...
+	Total simulation time		= 1500.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 50
+	RSU Number			= 5
+	Number of messages sent		= 492 msg
+	Number of messages received	= 383 msg
+	Total Number of hops 		= 685 hops
+	Total End-end delay 		= 10155.098633 seconds
+	Packet delivery rate		= 77.845528 per cent 
+	Average End-end delay 		= 26.514618 ms/msg 
+	Average number of Hops 		= 1.788512 hop/msg
+General statistics:
+	Execution mode = Exploiting...
+	Total simulation time		= 1500.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 50
+	RSU Number			= 5
+	Number of messages sent		= 493 msg
+	Number of messages received	= 396 msg
+	Total Number of hops 		= 752 hops
+	Total End-end delay 		= 10723.665039 seconds
+	Packet delivery rate		= 80.324544 per cent 
+	Average End-end delay 		= 27.079962 ms/msg 
+	Average number of Hops 		= 1.898990 hop/msg
+General statistics:
+	Execution mode = Exploiting...
+	Total simulation time		= 1500.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 50
+	RSU Number			= 5
+	Number of messages sent		= 490 msg
+	Number of messages received	= 391 msg
+	Total Number of hops 		= 764 hops
+	Total End-end delay 		= 13550.736328 seconds
+	Packet delivery rate		= 79.795918 per cent 
+	Average End-end delay 		= 34.656616 ms/msg 
+	Average number of Hops 		= 1.953964 hop/msg
+General statistics:
+	Execution mode = Exploiting...
+	Total simulation time		= 1500.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 50
+	RSU Number			= 5
+	Number of messages sent		= 493 msg
+	Number of messages received	= 377 msg
+	Total Number of hops 		= 700 hops
+	Total End-end delay 		= 11778.911133 seconds
+	Packet delivery rate		= 76.470588 per cent 
+	Average End-end delay 		= 31.243795 ms/msg 
+	Average number of Hops 		= 1.856764 hop/msg
+General statistics:
+	Execution mode = Exploiting...
+	Total simulation time		= 1500.000000 ms
+	hello_period_			= 1.000010 
+	BUS Number			= 50
+	RSU Number			= 5
+	Number of messages sent		= 488 msg
+	Number of messages received	= 383 msg
+	Total Number of hops 		= 711 hops
+	Total End-end delay 		= 12987.740234 seconds
+	Packet delivery rate		= 78.483607 per cent 
+	Average End-end delay 		= 33.910549 ms/msg 
+	Average number of Hops 		= 1.856397 hop/msg
